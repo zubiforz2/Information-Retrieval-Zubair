@@ -27,6 +27,7 @@ Note: We are assuming that you have installed JDK and Netbeans . Thanks
 
 What things you need to install the software and how to install them
 Data Set Required:
+
  Health Tweets: https://archive.ics.uci.edu/ml/datasets/Health+News+in+Twitter
  
  Sentence Corpus: https://archive.ics.uci.edu/ml/datasets/Sentence+Classification
