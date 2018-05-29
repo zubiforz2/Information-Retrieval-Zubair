@@ -1,4 +1,4 @@
-# Information-Retrieval-203708
+# Information-Retrieval- Term Project
 These are Netbeans projects using JAVA
 
 Submitted by
