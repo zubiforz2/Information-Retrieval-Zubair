@@ -9,7 +9,6 @@ Hassan Raza Niazi [204622]
 
 Kashif Hafeez Anjum [117700]
 
-NOTE: Sir, We commit changes after discussion with you as we perform some changes while evaluation of the code in Class. we supposed to mention this here.
 
 ## Getting Started
 
